@@ -2,38 +2,68 @@
 	"scoreEvents":[
 		{	"scoreEventId": 1, 
 			"type" : 1, 
-			"name": "完成采集任务", 
+			"name": "1", 
 			"time": 100000000000, 
 			"score": 10 
 		},
 		{	"scoreEventId": 2, 
 			"type" : 1, 
-			"name": "邀请朋友", 
+			"name": "2", 
 			"time": 1000000000000, 
 			"score": 100 
 		},
 		{	"scoreEventId": 3, 
 			"type" : 1, 
-			"name": "完成采集任务", 
+			"name": "3", 
 			"time": 2000000000000, 
 			"score": 10 
 		},
 		{	"scoreEventId": 4, 
 			"type" : 1, 
-			"name": "完成采集任务", 
+			"name": "4", 
 			"time": 3000000000000, 
 			"score": 20 
 		},
 		{	"scoreEventId": 5, 
 			"type" : 1, 
-			"name": "完成采集任务", 
+			"name": "5", 
+			"time": 1500000000000, 
+			"score": 40 
+		},
+		{	"scoreEventId": 6, 
+			"type" : 1, 
+			"name": "6", 
+			"time": 1500000000000, 
+			"score": 40 
+		},
+		{	"scoreEventId": 7, 
+			"type" : 1, 
+			"name": "7", 
+			"time": 1500000000000, 
+			"score": 40 
+		},
+		{	"scoreEventId": 8, 
+			"type" : 1, 
+			"name": "8", 
+			"time": 1500000000000, 
+			"score": 40 
+		},
+		{	"scoreEventId": 9, 
+			"type" : 1, 
+			"name": "9", 
+			"time": 1500000000000, 
+			"score": 40 
+		},
+		{	"scoreEventId": 10, 
+			"type" : 1, 
+			"name": "10", 
 			"time": 1500000000000, 
 			"score": 40 
 		},
 		{
 			"scoreEventId": 6, 
 			"type" : 2, 
-			"name": "未完成任务", 
+			"name": "1", 
 			"time": 100000000000, 
 			"score": 10
 		}
