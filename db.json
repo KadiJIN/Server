@@ -2,70 +2,70 @@
 	"scoreEvents":[
 		{	"scoreEventId": 1, 
 			"type" : 1, 
-			"name": "1", 
+			"name": "首次完成采集", 
 			"time": 100000000000, 
-			"score": 10 
+			"score": 100 
 		},
 		{	"scoreEventId": 2, 
 			"type" : 1, 
-			"name": "2", 
+			"name": "完成骑行任务", 
 			"time": 1000000000000, 
-			"score": 100 
+			"score": 300 
 		},
 		{	"scoreEventId": 3, 
 			"type" : 1, 
-			"name": "3", 
+			"name": "邀请好友", 
 			"time": 2000000000000, 
-			"score": 10 
+			"score": 100 
 		},
 		{	"scoreEventId": 4, 
 			"type" : 1, 
-			"name": "4", 
+			"name": "首次注册", 
 			"time": 3000000000000, 
-			"score": 20 
+			"score": 200 
 		},
 		{	"scoreEventId": 5, 
 			"type" : 1, 
-			"name": "5", 
+			"name": "道路采集", 
 			"time": 1500000000000, 
-			"score": 40 
+			"score": 400 
 		},
 		{	"scoreEventId": 6, 
 			"type" : 1, 
-			"name": "6", 
+			"name": "道路采集", 
 			"time": 1500000000000, 
-			"score": 40 
+			"score": 400 
 		},
 		{	"scoreEventId": 7, 
 			"type" : 1, 
-			"name": "7", 
+			"name": "门店采集", 
 			"time": 1500000000000, 
-			"score": 40 
+			"score": 400 
 		},
 		{	"scoreEventId": 8, 
 			"type" : 1, 
-			"name": "8", 
+			"name": "门店采集", 
 			"time": 1500000000000, 
-			"score": 40 
+			"score": 400 
 		},
 		{	"scoreEventId": 9, 
-			"type" : 1, 
-			"name": "9", 
+			"type" : 2, 
+			"name": "腾讯视频年卡", 
 			"time": 1500000000000, 
-			"score": 40 
+			"score": 100 
 		},
 		{	"scoreEventId": 10, 
-			"type" : 1, 
-			"name": "10", 
+			"type" : 2, 
+			"name": "京东卡一亿元", 
 			"time": 1500000000000, 
-			"score": 40 
+			"score": 400 
 		},
 		{
 			"scoreEventId": 11, 
 			"type" : 2, 
-			"name": "11", 
+			"name": "一万元法拉利抵用券", 
 			"time": 100000000000, 
-			"score": 10
+			"score": 100
 		}
 	]
 }
