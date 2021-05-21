@@ -47,25 +47,6 @@
 			"name": "门店采集", 
 			"time": 1500000000000, 
 			"score": 400 
-		},
-		{	"scoreEventId": 9, 
-			"type" : 2, 
-			"name": "腾讯视频年卡", 
-			"time": 1500000000000, 
-			"score": 100 
-		},
-		{	"scoreEventId": 10, 
-			"type" : 2, 
-			"name": "京东卡一亿元", 
-			"time": 1500000000000, 
-			"score": 400 
-		},
-		{
-			"scoreEventId": 11, 
-			"type" : 2, 
-			"name": "一万元法拉利抵用券", 
-			"time": 100000000000, 
-			"score": 100
 		}
 	]
 }
